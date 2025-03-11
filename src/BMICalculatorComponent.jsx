@@ -1,7 +1,7 @@
 // src/BMICalculatorComponent.jsx
 import React, { useState } from "react";
-//import BMICalculator from "./BMICalculator";
-const BMICalculator = require("./BMICalculator");
+import BMICalculator from "./BMICalculator";
+//const BMICalculator = require("./BMICalculator");
 function BMICalculatorComponent() {
   const [weight, setWeight] = useState("");
   const [height, setHeight] = useState("");
