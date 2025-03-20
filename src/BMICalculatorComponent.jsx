@@ -22,7 +22,7 @@ function BMICalculatorComponent() {
 
   return (
     <div>
-      <h1>BMI Calculator New</h1>
+      <h1>Software Engineering</h1>
       <div>
         <label>Weight (kg):</label>
         <input
